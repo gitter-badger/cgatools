@@ -4,6 +4,8 @@
 ## http://cgatools.sourceforge.net/
 ## http://www.completegenomics.com/public-data/analysis-tools/cgatools/
 
+[![Join the chat at https://gitter.im/cgatools/Lobby](https://badges.gitter.im/cgatools/Lobby.svg)](https://gitter.im/cgatools/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ### However it is impossible to compile this from source as the source code specifically calls for`BOOST_FILESYSTEM_VERSION 2`
 
 This was a known issue as `cgatools-1.8.0.1-source/cgatools/core.hpp:[43-46]` notes:
